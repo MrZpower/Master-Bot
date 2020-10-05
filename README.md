@@ -117,3 +117,5 @@ Anyone is welcome to suggest new features and improve code quality!
 [malokdev](https://github.com/malokdev) - uptime command
 
 [chimaerra](https://github.com/chimaerra) - minor command tweaks
+
+[![Run on Repl.it](https://repl.it/badge/github/galnir/Master-Bot)](https://repl.it/github/galnir/Master-Bot)
